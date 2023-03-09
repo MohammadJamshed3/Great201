@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body {
+
+    font-family: 'Bitter', serif;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+
+
+/* Good  */
+
+.header_Aria {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./new-year-new-me-main/images/banner/banner3.png);
+    background-position: center;
+    background-size: cover;
+    padding: 0px 15px;
+    margin: auto;
+    padding: auto;
+    padding-left: 5px;
+}
+
+.header_Section {
+    width: 90%;
+    height: 100vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.banner_content {
+    width: 40%;
+    height: 70%;
+}
+
+.banner_Title {
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    margin-right: 0;
+    padding: 10px;
+    text-align: right;
+    color: white;
+    margin-top: 40px;
+    row-gap: 400px;
+    padding-bottom: 0;
+
+}
+
+.banner_info {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: white;
+
+}
+
+.contact_btn {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin-top: 20px;
+    padding: 20px 30px;
+}
+
+.contact_btn button {
+    width: 160px;
+    background: white;
+    padding: 10px;
+
+    border-radius: 4px;
+    color: black;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.half-width {
+    margin-top: 140px;
+}
+
+.Quick {
+    margin-top: 350px;
+    padding-right: 400px;
+    padding-bottom: 200px;
+    padding-top: 1px;
+    border-top: 40px;
+    top: 50px;
+}
+
+.Dream_Area {
+    display: flex;
+    justify-content: center;
+
+}
+
+.Great {
+    width: 30%;
+}
+
+.King {
+    margin-top: 25%;
+    width: 100%;
+
+}
+
+.code {
+    font-size: 3em;
+}
+
+.Quick9 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin: 30px 0px;
+}
+
+.coding_Area {
+    margin-top: 15%;
+    margin-bottom: 10%;
+
+    width: 30%;
+    margin-left: 35px;
+}
+
+/* Good Journey 1   */
+.Goals {
+    text-align: center;
+
+}
+
+.container {
+    margin-top: 50px;
+    display: flex;
+    padding-left: 25%;
+    padding-right: 20%;
+    justify-content: space-between;
+}
+
+/* Good Journey 2   */
+
+/* Data collection 1  */
+
+.flex {
+    margin-bottom: 30px;
+    padding-left: 50px;
+    justify-items: auto;
+}
+
+.text {
+    font-size: 30px;
+    font-weight: 700;
+    color: whitesmoke;
+}
+
+.times-call {
+    margin-top: 200px;
+    background-image: url(./new-year-new-me-main/images/gradient1.png), url(./new-year-new-me-main/images/watch.png), linear-gradient(to right, blue, white);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: cover;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 150px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.contact_btn_code {
+    display: flex;
+    justify-content: start;
+    align-items: right;
+    margin-top: 50px;
+    padding-left: 8%;
+    border: 5%;
+
+}
+
+.dala {
+    width: 160px;
+    background: white;
+    padding: 10px;
+    padding-left: 10px;
+    border-radius: 7px;
+    color: black;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+
+/* Data collection 2  */
+
+
+/* footer section 1 */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background: black;
+    gap: 10px;
+
+}
+
+
+.text {
+
+    display: block;
+}
+
+.footer p {
+    color: white;
+
+}
+
+.social_icon {
+    display: flex;
+    gap: 15px;
+
+
+}
+
+.subscribe-item h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.subscribe-item {
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 0;
+    padding: 15px 30px;
+    padding-bottom: 30px;
+    border-style: none;
+    border-radius: 8px;
+    padding-right: 200px;
+
+}
+
+
+
+.box .link_name {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    position: fixed;
+}
+
+
+#input-field {
+    font-size: 18px;
+    color: #F3F3F3;
+    background-color: black;
+    border: 0.1px solid #F3F3F3;
+    border-radius: 10px;
+    padding: 20px 60px;
+
+}
+
+
+marquee {
+    background-color: #151414;
+    color: #737272;
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+
+.subscribe-button {
+    background-color: lightcoral;
+    border: 20px;
+    border-radius: 5px;
+    margin: 30px 10px 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 25px;
+
+
+}
+
+
+/* footer section 2 */
